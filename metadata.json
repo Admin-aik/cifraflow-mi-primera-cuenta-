@@ -1,0 +1,6 @@
+{
+  "name": "Cifraflow: Abriendo Mi Primera Cuenta de Banco",
+  "description": "Juego interactivo y simulador FinTech de educación financiera en estética Cyber-Space para abrir tu primera cuenta bancaria en Venezuela.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
